@@ -19,7 +19,8 @@
 添加证书参考：https://devcenter.heroku.com/articles/automated-certificate-management
 
 不添加证书只能起到加速访问的作用（换句话说就是在垃圾vpn下看4k）
-**PS** 转载请注明出处，谢谢了，让我呦兔频道涨点粉。O(∩_∩)O感激不尽！
+
+PS 转载请注明出处，谢谢了，让我呦兔频道涨点粉。O(∩_∩)O感激不尽！
 ---------------------------------------------------------------------------------------------------------
 **豆豆兵频道：**  https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 
