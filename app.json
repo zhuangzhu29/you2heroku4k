@@ -1,4 +1,3 @@
-app.listen(process.env.PORT || 46693);
 
 {
   "name": "youtu4k",
