@@ -3,7 +3,7 @@
   "name": "youtu4k",
   "description": "A free and open-source youtube video proxy script[Written in PHP]",
   "website": "https://github.com/doudoubinga/",
-  "repository": "https://github.com/doudoubinga/test",
+  "repository": "https://github.com/doudoubinga/you2heroku-4k",
   "success_url": "index.php",
   "env":{
   }
