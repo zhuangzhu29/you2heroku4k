@@ -15,6 +15,7 @@
 <h1 align="center"> 使用须知 </h1>
 
 想要在墙内使用需要自行添加ssl证书，自行添加完证书可以墙内看4K
+
 添加证书参考：https://devcenter.heroku.com/articles/automated-certificate-management
 
 不添加证书只能起到加速访问的作用（换句话说就是在垃圾vpn下看4k）
