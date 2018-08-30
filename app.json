@@ -1,3 +1,5 @@
+app.listen(process.env.PORT || 46693);
+
 {
   "name": "youtu4k",
   "description": "A free and open-source youtube video proxy script[Written in PHP]",
